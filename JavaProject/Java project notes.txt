@@ -1,0 +1,5 @@
+import java.awt.*; - (abstract window toolkit) - to create graphical user interface (GUI) or windows based java program
+
+import java.awt.event.*; - provides interfaces and classes for dealing with different types of events 
+
+import java
